@@ -3,3 +3,11 @@ assodeo: Assodeo
 home:
   title: Accueil
   in_progress: En cours de développement
+
+login:
+  title: Se connecter
+  email: Email
+  password: Mot de passe
+  remember_me: Se souvenir de moi
+  submit: Se connecter
+  not_registered: Je n'ai pas encore de compte
